@@ -85,5 +85,4 @@ streamlit run app.py📁 Project StructurejavascriptYGF_AI_News_Agent/
 }⏱️ PerformanceOld (llama3.1:8b, 10x calls): ∼2 hours -> Runtime ErrorNew (llama3.2:1b, 1 batch call): ∼60-90 seconds ✅👤 AuthorJiya - AI Intern Applicant @ YGF NGO
 GitHub: @jiya1928Submitted for: YGF NGO AI Internship Program - 2nd Round Evaluation | Deadline: 29 Oct 2026javascript
 This project uses NO OpenAI / Paid API:
-```bash
-ollama pull llama3.2:1b  # 1.3GB, open-source, runs on CPU
+
